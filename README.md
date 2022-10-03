@@ -1,7 +1,7 @@
 <h1 align="center">Hi There👋, I'm Arifuzzaman aka AZFahim</h1>
 <h3 align="center">A passionate frontend developer and graphics designer.</h3>
 
-- 🌱 I’m currently learning **EJS**
+- 🌱 I’m currently learning **Minimal Logo Design**
 
 - 📫 How to reach me **azfahim11@gmail.com**
 
