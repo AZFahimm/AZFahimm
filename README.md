@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[path/to/your/profile-picture.png](https://avatars.githubusercontent.com/u/48868488?v=4)" alt="Your Name" width="150" height="150">
+  <img src="https://avatars.githubusercontent.com/u/48868488?v=4" alt="Your Name" width="150" height="150">
 
   # Arifuzzaman
   *Front-End Web Developer*
