@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="path/to/your/profile-picture.png" alt="Your Name" width="150" height="150">
+  <img src="[path/to/your/profile-picture.png](https://avatars.githubusercontent.com/u/48868488?v=4)" alt="Your Name" width="150" height="150">
 
-  # Your Name
+  # Arifuzzaman
   *Front-End Web Developer*
 
   [![GitHub](https://img.shields.io/badge/GitHub-AZFahimm-blue?style=flat-square&logo=github)](https://github.com/AZFahimm)
